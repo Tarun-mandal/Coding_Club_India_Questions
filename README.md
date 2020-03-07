@@ -9,7 +9,7 @@ Add a STAR to the Repository https://github.com/CSElonewolf/Coding_Club_India_Qu
 
 **Step 2**
 
-Click on Fork 
+Click on Fork ![Fork-link](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
 
 **Step 2**
 
