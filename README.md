@@ -13,14 +13,17 @@ Click on Fork ![Fork-link](https://github-images.s3.amazonaws.com/help/bootcamp/
 
 **Step 3**
 
-Read The questions from the **Question Image** https://github.com/CSElonewolf/Coding_Club_India_Questions/tree/master/Question_Images
+Read The questions from the **Question Image**
+[Ouestions](https://github.com/CSElonewolf/Coding_Club_India_Questions/tree/master/Question_Images)
 
 ![Question-link](https://i2.wp.com/www.knowledgewala.com/wp-content/uploads/2017/12/codinginterview.png?fit=713%2C348)
 
 
 **Step 4**
 
-Copy the code of the respective question that are with ".c" extension
+Copy the code of the respective question that are with ".c" extension for
+[SOLUTIONS](https://github.com/CSElonewolf/Coding_Club_India_Questions/tree/master/Solutions%20in%20C)
+
 
 **Step 5**
 
